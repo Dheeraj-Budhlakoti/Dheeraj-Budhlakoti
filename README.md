@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Budhlakoti</h1>
-<h4 align="center">An enthusiastic data science individual driven by a fervor for leveraging data to generate data-driven solutions. Proficiency in Python and SQL, coupled with hands-on experience in data analysis and consulting. Eagerly seeking a data science role to enhance my expertise and contribute to transformative projects.</h4>
+<h4 align="center">Detail-oriented data professional with experience in data migration, data engineering, and ERP system
+integration. Proven track record of delivering accurate, high-quality data solutions by collaborating with
+international teams. Proficient in SQL, Excel, Python, and ETL processes, with a passion for streamlining
+data-driven workflows and enhancing operational efficiency</h4>
 
 <img align="right" alt="coding" width="400" src="https://cdn.shopaccino.com/igmguru/articles/Data-Analytics-Tutorial.jpg?v=523">
 
