@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Budhlakoti</h1>
 <h4 align="center">An enthusiastic data science individual driven by a fervor for leveraging data to generate data-driven solutions. Proficiency in Python and SQL, coupled with hands-on experience in data analysis and visualization. Eagerly seeking a data science role to enhance my expertise and contribute to transformative projects.</h4>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="https://cdn.shopaccino.com/igmguru/articles/Data-Analytics-Tutorial.jpg?v=523">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj-budhlakoti&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj-budhlakoti" /> </p>
 
-- 🔭 Data Science Trainee at **AlmaBetter**
+- 💻 Consultant Associate at **Infor (India) Private Limited**
 
-- 🌱 Currently learning **Advance ML concepts**
+- 📄 Ex Associate Data Analyst at **Albanero (Acquired By Infor)**
 
 - 👯 I’m looking to collaborate on **Data Analytics & Machine Learning Projects**
-
-- 📝 I sometimes write articles on [https://medium.com/@rajdheersingh11](https://medium.com/@rajdheersingh11)
 
 - 💬 Ask me about **SQL, Python, Machine Learning**
 
 - 📫 How to reach me **rajdheersingh11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19pE7uuBysG5ApNXbSZJC_5s0p8ZXwckf/view?usp=sharing](https://drive.google.com/file/d/19pE7uuBysG5ApNXbSZJC_5s0p8ZXwckf/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10wzMpn_-8E129MrV9mVQrz0D_6QAqTxK/view?usp=drive_link](https://drive.google.com/file/d/10wzMpn_-8E129MrV9mVQrz0D_6QAqTxK/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
